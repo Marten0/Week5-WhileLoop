@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTries\bin\Debug\netcoreapp3.1\PINValidationThreeTries.exe
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTries\bin\Debug\netcoreapp3.1\PINValidationThreeTries.deps.json
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTries\bin\Debug\netcoreapp3.1\PINValidationThreeTries.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTries\bin\Debug\netcoreapp3.1\PINValidationThreeTries.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTries\bin\Debug\netcoreapp3.1\PINValidationThreeTries.dll
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTries\bin\Debug\netcoreapp3.1\PINValidationThreeTries.pdb
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTries\obj\Debug\netcoreapp3.1\PINValidationThreeTries.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTries\obj\Debug\netcoreapp3.1\PINValidationThreeTries.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTries\obj\Debug\netcoreapp3.1\PINValidationThreeTries.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTries\obj\Debug\netcoreapp3.1\PINValidationThreeTries.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTries\obj\Debug\netcoreapp3.1\PINValidationThreeTries.dll
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTries\obj\Debug\netcoreapp3.1\PINValidationThreeTries.pdb
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTries\obj\Debug\netcoreapp3.1\PINValidationThreeTries.genruntimeconfig.cache
